@@ -29,9 +29,9 @@ Traducido y empaquetado por la comunidad de Python Argentina.**
 	- **[This Library is 15 Times Faster Than Pandas Introducing Polars: A Python library for manipulating data](https://betterprogramming.pub/this-library-is-15-times-faster-than-pandas-7e49c0a17adc)**. 
 	- **[Bondades de Flux y cómo te ayuda en una cultura GitOps](https://www.returngis.net/2022/01/integracion-nativa-de-flux-con-aks/)**
 	- **[Encuesta kaggle 2021: ¿España es diferente?](https://www.kaggle.com/carlmcbrideellis/encuesta-kaggle-2021-espa-a-es-diferente)**
-	- **[#python package that translates a notebook into a web app! Repo linked below. repo -> https://lnkd.in/eMkr-dUj](https://github.com/mljar/mercury)**
+	- **[#python package that translates a notebook into a web app! Repo linked below. repo -> https://lnkd.in/eMkr-dUj](https://github.com/mljar/mercury)****
 	- **[How to Think Like a Computer Scientist: Learning with Python 3](http://mitchellpowell.net/p/think-like/index.html)**
-	- **[Color map](http://appjar.info/pythonBasics/) **
+	- **[Color map](http://appjar.info/pythonBasics/)**
 	- **[Introducción a la Vision Artificial con Python y OpenCV](https://www.youtube.com/watch?v=Nh1eob7tsr0) **
 	- **[]() **
 	- **[]() **
