@@ -32,3 +32,8 @@ Traducido y empaquetado por la comunidad de Python Argentina.**
 	- **[#python package that translates a notebook into a web app! Repo linked below. repo -> https://lnkd.in/eMkr-dUj](https://github.com/mljar/mercury)**
 	- **[How to Think Like a Computer Scientist: Learning with Python 3](http://mitchellpowell.net/p/think-like/index.html)**
 	- **[Color map](http://appjar.info/pythonBasics/) **
+	- **[Introducción a la Vision Artificial con Python y OpenCV](https://www.youtube.com/watch?v=Nh1eob7tsr0) **
+	- **[]() **
+	- **[]() **
+	- **[]() **
+	- **[]() **
