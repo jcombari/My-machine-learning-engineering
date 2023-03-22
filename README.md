@@ -15,6 +15,8 @@
 	- **[5 Cosas que debes hacer Antes de Renunciar a tu Empleo](https://www.negociosyemprendimiento.org/2015/02/cosas-que-debes-hacer-antes-de-renunciar-empleo.html)**
 	- **[Logistic Regression, Clearly Explained (Plus Nine Handy Cheat Sheets)](https://towardsdatascience.com/logistic-regression-clearly-explained-plus-nine-handy-cheat-sheets-5c7f31441a05)**
 	- **Tutorial de [Python 3](https://docs.python.org/es/3/tutorial/index.html) Guido Van Rossum.
+	- **[Curso Gratuito de Python para el tratamiento de datos - Clase 1/2](https://www.youtube.com/watch?v=MyeCc-Xwi5g)**
+	- **[Curso Gratuito de Python para el tratamiento de datos - Clase 2/2](https://www.youtube.com/watch?v=vnBjUEKl4Vw)**
 Traducido y empaquetado por la comunidad de Python Argentina.** 
 	- **[𝐓𝐡𝐞 𝐉𝐮𝐥𝐢𝐚 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 book](https://juliadatascience.io/)[Libro](https://github.com/jcombari/My-machine-learning-engineering/blob/main/Julia%20DataScience/juliadatascience.pdf)**
 	-  **[ #tutorial para el desarrollo del proyecto de #deeplearning, que permite descargar de manera interactica sus recursos](https://github.com/jcombari/My-machine-learning-engineering/blob/main/PDF/%23API%20para%20descargar%20de%20manera%20interactica%20sus%20recursos..pdf)**
@@ -32,8 +34,383 @@ Traducido y empaquetado por la comunidad de Python Argentina.**
 	- **[#python package that translates a notebook into a web app! Repo linked below. repo -> https://lnkd.in/eMkr-dUj](https://github.com/mljar/mercury)****
 	- **[How to Think Like a Computer Scientist: Learning with Python 3](http://mitchellpowell.net/p/think-like/index.html)**
 	- **[Color map](http://appjar.info/pythonBasics/)**
-	- **[Introducción a la Vision Artificial con Python y OpenCV](https://www.youtube.com/watch?v=Nh1eob7tsr0) **
-	- **[]() **
-	- **[]() **
-	- **[]() **
-	- **[]() **
+* TensorFlow - Neural Networks:
+	- **[TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk)**
+	- **[Crea un clasificador de perros y gatos con IA, Python y Tensorflow - Proyecto completo](https://www.youtube.com/watch?v=DbwKbsCWPSg)**
+	- **[Tu primer clasificador de imágenes con Python y Tensorflow](https://www.youtube.com/watch?v=j6eGHROLKP8)**
+	- **[Inteligencia Artificial desde cero con Python y Tensorflow](https://www.youtube.com/playlist?list=PLZ8REt5zt2Pn0vfJjTAPaDVSACDvnuGiG)**
+		- **[Tu primera red neuronal en Python y Tensorflow](https://www.youtube.com/watch?v=iX_on3VxZzk&list=PLZ8REt5zt2Pn0vfJjTAPaDVSACDvnuGiG&index=1)**
+		- **[Tu primer clasificador de imágenes con Python y Tensorflow](https://www.youtube.com/watch?v=j6eGHROLKP8&list=PLZ8REt5zt2Pn0vfJjTAPaDVSACDvnuGiG&index=2)**
+		- **[Usa tus modelos de Tensorflow en páginas web | Exportación a Tensorflow.js](https://www.youtube.com/watch?v=JpE4bYyRADI&list=PLZ8REt5zt2Pn0vfJjTAPaDVSACDvnuGiG&index=3)**
+		- **[Redes Neuronales Convolucionales - Clasificación avanzada de imágenes con IA / ML (CNN)](https://www.youtube.com/watch?v=4sWhhQwHqug&list=PLZ8REt5zt2Pn0vfJjTAPaDVSACDvnuGiG&index=4)**
+		- **[Crea un clasificador de perros y gatos con IA, Python y Tensorflow - Proyecto completo](https://www.youtube.com/watch?v=DbwKbsCWPSg&list=PLZ8REt5zt2Pn0vfJjTAPaDVSACDvnuGiG&index=5)**
+		- **[¿Pocos datos de entrenamiento? Prueba esta técnica](https://www.youtube.com/watch?v=9Dur_oUMGG8&list=PLZ8REt5zt2Pn0vfJjTAPaDVSACDvnuGiG&index=6)**
+		- **[Las Derivadas Nos Trajeron Al Futuro](https://www.youtube.com/watch?v=njoOd9iV2Qo&list=PLZ8REt5zt2Pn0vfJjTAPaDVSACDvnuGiG&index=7)**
+		- **[Funciones de activación a detalle (Redes neuronales)](https://www.youtube.com/watch?v=_0wdproot34&list=PLZ8REt5zt2Pn0vfJjTAPaDVSACDvnuGiG&index=8)**
+	- **[Curso Tensorflow en castellano](https://www.youtube.com/playlist?list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM)**
+		- **[Curso Tensorflow con Anaconda - 1.Introducción e instalación del entorno](https://www.youtube.com/watch?v=7xoyPejsmLs&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=1)**
+		- **[Curso Tensorflow con Anaconda - 2.Conceptos básicos aprendizaje automático y ejemplo](https://www.youtube.com/watch?v=AYk1iMP5bN0&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=2)**
+		- **[Curso Tensorflow con Anaconda - 3.Regresión lineal y un ejemplo](https://www.youtube.com/watch?v=isIUMKtj__I&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=3)**
+		- **[Curso Tensorflow con Anaconda - 4.Conceptos básicos.Reducción de la pérdida](https://www.youtube.com/watch?v=-1UP1OtA66Q&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=4)**
+		- **[Curso Tensorflow con Anaconda - 5.Ejemplo de uso de la API Pandas](https://www.youtube.com/watch?v=F6fkeO_ZhFM&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=5)**
+		- **[Curso Tensorflow con Anaconda - 6. Ejemplo predicción precios (1)](https://www.youtube.com/watch?v=PYwUZY3G16Y&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=6)**
+		- **[Curso Tensorflow con Anaconda -7. Ejemplo predicción precios (2)](https://www.youtube.com/watch?v=7UOzb01GlY0&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=7)**
+		- **[Curso Tensorflow con Anaconda -8. Generalización y sobreajuste](https://www.youtube.com/watch?v=oxQklBjud4M&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=8)**
+		- **[Curso Tensorflow con Anaconda -9. Ejemplo entrenamiento y validación(1)](https://www.youtube.com/watch?v=6u9aKXgf_54&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=9)**
+		- **[Curso Tensorflow con Anaconda -10. Ejemplo entrenamiento y validación(2)](https://www.youtube.com/watch?v=hBZtFalrF68&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=10)**
+		- **[Curso Tensorflow con Anaconda -11.Ingeniería de atributos](https://www.youtube.com/watch?v=9wZkKzZJIik&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=11)**
+		- **[Curso Tensorflow con Anaconda -12.Combinaciones de atributos](https://www.youtube.com/watch?v=pOALr_p6sRA&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=12)**
+		- **[Curso Tensorflow con Anaconda -13.Regularización y regresión logistica](https://www.youtube.com/watch?v=-m4XIqmh2QE&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=13)**
+		- **[Curso Tensorflow con Anaconda -14.Clasificación](https://www.youtube.com/watch?v=hrmkX8gTSyU&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=14)**
+		- **[Curso Tensorflow con Anaconda -15.Introducción a las redes neuronales](https://www.youtube.com/watch?v=VUanCoz4cwY&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=15)**
+		- **[Curso Tensorflow con Anaconda -16.Entrenamiento de redes neuronales](https://www.youtube.com/watch?v=TtY8ljyyIhs&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=16)**
+		- **[Curso Tensorflow con Anaconda -17 Redes neuronales de clases múltiples](https://www.youtube.com/watch?v=8RW6OCyvKT4&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=17)**
+		- **[Curso Tensorflow con Anaconda -18 Incorporaciones](https://www.youtube.com/watch?v=UCDpwSEe7ws&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=18)**
+		- **[Curso Tensorflow con Anaconda -19 Creando nuestro propio clasificador de imagenes (1)](https://www.youtube.com/watch?v=O0wLrttj5OY&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=19)**
+		- **[Curso Tensorflow con Anaconda -20 Creando nuestro propio clasificador de imágenes (2)](https://www.youtube.com/watch?v=a9ff_Aas8RA&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=20)**
+		- **[Tensorflow. Reconocimiento facial con inteligencia artificial (1/3)](https://www.youtube.com/watch?v=9NkG71dND1s&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=21)**
+		- **[Tensorflow. Reconocimiento facial con inteligencia artificial (2/3)](https://www.youtube.com/watch?v=9pGIKE2mwkY&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=22)**
+		- **[Tensorflow. Reconocimiento facial con inteligencia artificial (3/3)](https://www.youtube.com/watch?v=XDVLPrfY8i8&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=23)**
+		- **[Tensorflow. Identificación facial con inteligencia artificial (1/2)](https://www.youtube.com/watch?v=F2TlXh6I33Y&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=24)**
+		- **[Tensorflow. Identificación facial con inteligencia artificial (2/2)](https://www.youtube.com/watch?v=8bszxwVbf7s&list=PLLJJqiFt6VPpsydO8NHeZ5FFDiIoJaKiM&index=25)**
+	- **[Aprende a PROGRAMAR una RED NEURONAL - Tensorflow, Keras, Sklearn](https://www.youtube.com/watch?v=qTNUbPkR2ao)**	
+	- **[PyTorch o Tensorflow ¿Cuál es la ideal para ti?](https://www.youtube.com/watch?v=Je09qqhmEm0)**
+	- **[Curso de TensorFlow](https://www.youtube.com/watch?v=o0Upa0yrbS0&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu)**
+		- **[Curso de TensorFlow. Instalar entorno de Trabajo para TensorFlow](https://www.youtube.com/watch?v=o0Upa0yrbS0&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=1)**
+		- **[02.- Curso de TensorFlow. Sintaxis y estructura básica](https://www.youtube.com/watch?v=wHKCXQjDElM&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=2)**
+		- **[03.- Curso de TensorFlow. ¿Qué son los tensores?](https://www.youtube.com/watch?v=bPPLCrjQCBQ&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=3)**
+		- **[04.- Curso de TensorFlow. Tensores con Valores Conocidos.](https://www.youtube.com/watch?v=1cAjWZYkC8w&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=4)**
+		- **[05.- Curso de TensorFlow. Terminología Básica de TF.](https://www.youtube.com/watch?v=Aa-Mxh5TGr8&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=5)**
+		- **[06.- Curso de TensorFlow. Modelo de Regresión Lineal.](https://www.youtube.com/watch?v=f8X5X_DziCk&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=6)**
+		- **[07.- Curso de TensorFlow. Reducción de pérdida.](https://www.youtube.com/watch?v=K9msm2ZZ5EM&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=7)**
+		- **[08.- Tensores con Valores Aleatorios.](https://www.youtube.com/watch?v=bJizG3RrXuM&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=8)**
+		- **[09.- Curso de TensorFlow. Crear Primera Aplicación.](https://www.youtube.com/watch?v=rtAudNQZvPA&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=9)**
+		- **[10.- Curso de Tensorflow. Desarrollo del Modelo.](https://www.youtube.com/watch?v=0gLSvw8SIpk&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=10)**
+		- **[11.- Curso de TensorFlow. Configuración y uso de Google Colaboratory](https://www.youtube.com/watch?v=kjy2AGLGnFs&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=11)**
+		- **[12.- Curso de TensorFlow. Instalar Keras.](https://www.youtube.com/watch?v=mgQGSvoD7mM&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=12)**
+		- **[13.- Curso de TensorFlow. Uso de la librería Pandas](https://www.youtube.com/watch?v=B_TmG3In7Io&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=13)**
+		- **[14.- Curso de TensorFlow. Uso del Método train.](https://www.youtube.com/watch?v=7z610tp6yxQ&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=14)**
+		- **[15.- Curso de TensorFlow. Creación de gráficos.](https://www.youtube.com/watch?v=H_kSxCApiPo&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=15)**
+		- **[16.-Curso de TensorFlow. Que son los hiperparámetros.](https://www.youtube.com/watch?v=wTKJYMdgo2I&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=16)**
+		- **[17.- Curso de TensorFlow. Función Entrenamiento del Modelo.](https://www.youtube.com/watch?v=jIl7hZ7Uj6U&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=17)**
+		- **[18.- Curso de TensorFlow. Detección de Objetos con TensorFlow.](https://www.youtube.com/watch?v=asulZCYvcoU&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=18)**
+		- **[Curso de TensorFlow. Empezar con TensorFlow.js](https://www.youtube.com/watch?v=oCudtuFxqWg&list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu&index=19)**
+	- **[Red neuronal con Tensorflow y Python. Exportación del modelo.](https://www.youtube.com/watch?v=tTWj6fWmfNY)**
+	- **[TUTORIAL Primer modelo Deep Learning con TensorFlow en español | Clasificación binaria red neuronal](https://www.youtube.com/watch?v=NERPPvoj3Go)**
+		- **[]()**
+	- **[Formation à Tensorflow 2.0](https://www.youtube.com/playlist?list=PLpEPgC7cUJ4byTM5kGA0Te1jUeNwbSgfd)**
+		- **[Se former à Tensorflow 2.0 #1](https://www.youtube.com/watch?v=hP7Ac8S9Tgs&list=PLpEPgC7cUJ4byTM5kGA0Te1jUeNwbSgfd&index=1)**
+		- **[]()**
+		- **[]()**
+		- **[]()**
+		- **[]()**
+		- **[]()**
+		- **[]()**
+
+* intro to Computer Vision:
+	- **[intro to Computer Vision](https://www.youtube.com/watch?v=AZRRYB3Vyfg&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=1)**
+	- **[How to read and write an image in openCV](https://www.youtube.com/watch?v=TZQg2XwH3lo&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=2)**
+	- **[How to Read, Write, Show Videos from Camera in OpenCV](https://www.youtube.com/watch?v=_7kENQznPAU&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=3)**
+	- **[Draw geometric shapes on images using Python OpenCV](https://www.youtube.com/watch?v=RI1QKafpiM8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=4)**
+	- **[Create Graphics using opencv | computer vision](https://www.youtube.com/watch?v=YGcnv8_Xf38&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=5)**
+	- **[Setting Camera Parameters in OpenCV Python](https://www.youtube.com/watch?v=tbItF0Tcgl4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=6)**
+	- **[Show Date and Time on Videos using OpenCV Python](https://www.youtube.com/watch?v=YLMeKVyFUuo&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=7)** 
+	- **[Handle Mouse Events in OpenCV](https://www.youtube.com/watch?v=Uf27phbO8RU&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=8)**
+	- **[More Mouse Event Examples in OpenCV Python](https://www.youtube.com/watch?v=XUEhCoIuI-E&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=9)**
+	- **[More Mouse Event Examples in OpenCV Python 3](https://www.youtube.com/watch?v=IW9nKk0Ol5E&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=10)**
+	- **[cv.split, cv.merge, cv.resize, cv.add, cv.addWeighted, ROI](https://www.youtube.com/watch?v=bifNtzRJ0E8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=11)**
+	- **[Bitwise Operations (bitwise AND, OR, NOT and XOR)](https://www.youtube.com/watch?v=YDPcOC3K5y8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=12)**
+	- **[How to Bind Trackbar To OpenCV Windowshttps://www.youtube.com/watch?v=4nWMAx2LFw0&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=13]()**
+	- **[Object Detection and Object Tracking Using HSV Color Space](https://www.youtube.com/watch?v=y6dglGPOQ0U&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=14)**
+	- **[Simple Image Thresholding](https://www.youtube.com/watch?v=jpE4y9WXXYM&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=15)**
+	- **[Adaptive Thresholding](https://www.youtube.com/watch?v=NC2vSPvuMMs&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=16)**
+	- **[matplotlib with open CV](https://www.youtube.com/watch?v=oJ-hWQpKfJM&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=17)**
+	- **[Morphological Transformations part one | computer vision ](https://www.youtube.com/watch?v=rX8PRyIodro&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=18 )**
+	- **[Morphological Transformations part two| computer vision ](https://www.youtube.com/watch?v=qtXJTyIEaa8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=19)**
+	- **[Morphological Transformations part three| computer vision](https://www.youtube.com/watch?v=Fba38LLI0lc&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=20)**
+	- **[Morphological Transformations in openCV ](https://www.youtube.com/watch?v=EfJPzaoB6S4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=21)**
+	- **[Smoothing Images | Blurring Images OpenCV ](https://www.youtube.com/watch?v=8JgXFp0g6Z4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=22)**
+	- **[Image Gradients and Edge Detection using Laplacian](https://www.youtube.com/watch?v=PxzaXOd_nHs&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=23 )**
+	- **[Sobel X and Sobel y edge detection ](https://www.youtube.com/watch?v=y7jVyT15RrQ&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=24)**
+	- **[Canny Edge Detection in OpenCV](https://www.youtube.com/watch?v=kW_-WYi7IGw&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=25)**
+	- **[image pyramids (Gaussian pyramid and Laplacian pyramid)](https://www.youtube.com/watch?v=Z6PH38jSK9Q&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=26)**
+	- **[Image Blending using Pyramids in open CV](https://www.youtube.com/watch?v=nsdXccq-Ma8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=27)**
+	- **[find and draw contours in open CV](https://www.youtube.com/watch?v=216rPQOI0wk&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=28)**
+	- **[Motion Detection and Tracking Using Opencv](https://www.youtube.com/watch?v=PEApucRsaJ4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=29)**
+	- **[detect , track and count car and moto in video using openCV | computer vision](https://www.youtube.com/watch?v=fI6RoxoLNRI&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=30)**
+	- **[Vehicle detection and counting using openCV | Computer vision ](https://www.youtube.com/watch?v=lFbAifsZXmI&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=31)**
+	- **[Detect Simple Geometric Shapes using OpenCV in Python](https://www.youtube.com/watch?v=oq2XH9MHHzA&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=32)**
+	- **[Image Enhancement | computer vision](https://www.youtube.com/watch?v=K0FL3gTcJH8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=33)**
+	- **[image Histograms and contrast stretching using OpenCV Python ](https://www.youtube.com/watch?v=hj5PclwPr-A&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=34)**
+	- **[segmentation by using Otsu's Binarization ](https://www.youtube.com/watch?v=KxrW_NR7QTY&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=35)**
+	- **[object detection by template matching](https://www.youtube.com/watch?v=O3lC-cMDC48&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=36)**
+	- **[Face Detection using Haar Cascade Classifiers](https://www.youtube.com/watch?v=uDkCr5Z7euQ&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=37)**
+	- **[eye detection using open CV](https://www.youtube.com/watch?v=XmGuMYb4Yh4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=38)**
+	- **[eye motion detection and tracking using openCV ](https://www.youtube.com/watch?v=P7dO3VR4dTY&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=39)**
+	- **[install dlib library in python | Computer vision ](https://www.youtube.com/watch?v=Jvs72oIJrkY&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=40)**
+	- **[face landmarks | face detection using dlib and openCV](https://www.youtube.com/watch?v=hd8u77DKiTU&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=41)**
+	- **[Face mesh using Mediapipe | computer vision](https://www.youtube.com/watch?v=heT-ovrCEK4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=42)**
+	- **[Graham scan(Convex Hull) and contours using open cv](https://www.youtube.com/watch?v=nFJWsHG4CGI&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=43)**
+	- **[Car plate recognation using open CV | (OCR) | Computer vision](https://www.youtube.com/watch?v=eM9uaVUFmCY&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=44)**
+	- **[Car plate recognation using open CV | (OCR) | Computer vision](https://www.youtube.com/watch?v=eM9uaVUFmCY&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=44)**
+	- **[calculte the vehicle speed using open CV | Computer vision](https://www.youtube.com/watch?v=qN9vtvFwwFY&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=45)**
+	- **[text recognation from image by using pytesseract OCR | Computer vision](https://www.youtube.com/watch?v=ymf9Hj3o5bk&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=46)**
+	- **[text and number detection by using pytesseract OCR](https://www.youtube.com/watch?v=Ypu2OnVcvNM&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=47)**
+	- **[math behiend harris corner detector](https://www.youtube.com/watch?v=RhxlypyC8GI&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=48)**
+	- **[Harris corner detector example in python](https://www.youtube.com/watch?v=-ZF7rIORNuQ&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=49)**
+	- **[FAST corner detection in computer vision](https://www.youtube.com/watch?v=77tHbKdudUU&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=50)**
+	- **[FAST corner detection example using openCV ](https://www.youtube.com/watch?v=vi0Vl-zvkQk&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=51)**
+	- **[LoG and DoG blobs detection in computer vision](https://www.youtube.com/watch?v=AhwmES1-hlY&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=52)**
+	- **[blob detection using open CV | Computer vision](https://www.youtube.com/watch?v=-5P_ctpdcwE&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=53)**
+	- **[Scale invariant feature transform (SIFT)](https://www.youtube.com/watch?v=ckftH9saonM&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=54)**
+	- **[SIFT example using open CV | Computer vision](https://www.youtube.com/watch?v=saST4kp_By4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=55)**
+	- **[ORB (Oriented FAST and Rotated BRIEF) open CV | computer vision](https://www.youtube.com/watch?v=sZzW2AZ9C8s&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=56)**
+	- **[Histogram of Oriented Gradients ( HOG ) | Computer vision](https://www.youtube.com/watch?v=1dwCTuyszq8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=57)**
+	- **[HOG example using openCV | Computer vision ](https://www.youtube.com/watch?v=UQRW4B4_nmU&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=58)**
+	- **[Detect Pedestrians in video using HOG | open CV | Computer vision ](https://www.youtube.com/watch?v=zyKam8pNjJ4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=59)**
+	- **[Feature matching by using KD-tree | neighbors search | computer vision](https://www.youtube.com/watch?v=AbOCbuXkq6c&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=60)**
+	- **[Brute-Force matcher and FLANN Matcher in computer vision](https://www.youtube.com/watch?v=rJ7DEZ3wqpI&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=61)**
+	- **[MobileNet Image Classification with TensorFlow's Keras API](https://www.youtube.com/watch?v=OpVXoAvEzFQ&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=62)**
+	- **[Fine-Tuning MobileNet on custom data set](https://www.youtube.com/watch?v=sgcWo2TpaJQ&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=63)**
+	- **[Mask detection using MobilNetV2 | Computer Vision](https://www.youtube.com/watch?v=vTDGZxcws30&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=64)**
+	- **[Mask Detection in real time usine Caffe model and MobilNet](https://www.youtube.com/watch?v=IwwOAGtTDoc&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=65)**
+	- **[Image Steganography in computer vision](https://www.youtube.com/watch?v=fJawifnqUNU&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=66)**
+	- **[Image Steganography using python | computer vision](https://www.youtube.com/watch?v=tx1J7jOAjtY&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=67)**
+	- **[QR Code and Bar code in Computer Vision](https://www.youtube.com/watch?v=pOw4g2HBEac&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=68)**
+	- **[Crop images with Opencv | computer vision](https://www.youtube.com/watch?v=4V8ORzEj0G4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=69)**
+	- **[Image Augmentation with Imgaug | computer vision](https://www.youtube.com/watch?v=bFfgfYWI4LI&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=70)**
+	- **[Segmentation using flood fill and Connected components algorithm](https://www.youtube.com/watch?v=_N1Xc2Z9sew&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=71)**
+	- **[Segmentaion using k-means clustering | computer vision](https://www.youtube.com/watch?v=9_Eei5IrI0w&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=72)**
+	- **[Segmentaion using k-means clustering in opencv](https://www.youtube.com/watch?v=nIde-lw38X8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=73)**
+	- **[GMM and EM | soft cluster | computer vision](https://www.youtube.com/watch?v=TfuCc4ze9GM&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=74)**
+	- **[Segmentaion using background subtraction | Computer vision](https://www.youtube.com/watch?v=qpmViNMIai4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=75)**
+	- **[Camera Calibration Computer Vision](https://www.youtube.com/watch?v=H0exK3KNR90&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=76)**
+	- **[image panorama | image stitching | RANSAC | homography](https://www.youtube.com/watch?v=xMy8ebs1Cg0&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=77)**
+	- **[texture energy computer vision](https://www.youtube.com/watch?v=3MaJXgqJfhg&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=78)**
+	- **[collecting your own dataset using opencv | computer vision ](https://www.youtube.com/watch?v=tpB4FsVXQQE&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=79)**
+	- **[Web scraping from google using selenium](https://www.youtube.com/watch?v=OR7p-FV1tD4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=80)**
+	- **[Web Scraping from Instagram using Selenium](https://www.youtube.com/watch?v=dQVabc1d_3g&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=81)**
+	- **[calculate distance between point and object | computer vision](https://www.youtube.com/watch?v=LXIcE_fvKX0&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=82)**
+	- **[track single object | computer vision](https://www.youtube.com/watch?v=c60hRaJZNo8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=83)**
+	- **[tracking multiple object | FPS | computer vision](https://www.youtube.com/watch?v=dtxOO6diOXc&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=84)**
+	- **[Hand landmarks using mediapipe](https://www.youtube.com/watch?v=bK5m4nIbcS4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=85)**
+	- **[AI Virtual Mouse using mediapipe and openCV | computer vision ](https://www.youtube.com/watch?v=80Tk30NxgK4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=86)**
+	- **[pose estimation using mediapipe](https://www.youtube.com/watch?v=h5P8mkT7nKU&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=87)**
+	- **[Gesture Volume Control | OpenCV | Computer Vision](https://www.youtube.com/watch?v=ThKWvuL6Rxc&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=88)**
+	- **[mean shift segmentation | computer vision ](https://www.youtube.com/watch?v=ysvYS0woOaU&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=89)**
+	- **[mean shift tracking using openCV | Computer vision](https://www.youtube.com/watch?v=xn7GFVJ5J2c&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=90)**
+	- **[CamShift tracking using openCV | computer vision](https://www.youtube.com/watch?v=a0C8BP-NGhk&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=91)**
+	- **[DBSCAN Clustering | Computer vision](https://www.youtube.com/watch?v=dIaYxAuDYyU&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=92)**
+	- **[Hough Transform | Computer vision](https://www.youtube.com/watch?v=4UWoQ5TW8t4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=93)**
+	- **[lane detection for self driving car | openCV ](https://www.youtube.com/watch?v=buGaLvL7Hh4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=94)**
+	- **[How Circle Hough Transform works ](https://www.youtube.com/watch?v=mw4k_gYSrd0&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=95)**
+	- **[Hough Circle Transform with openCV | Computer vision](https://www.youtube.com/watch?v=VIGFfw67Uj8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=96)**
+	- **[Warp Perspective | Document Scanner with opencv | computer vision](https://www.youtube.com/watch?v=V_PHd3RqsBY&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=97)**
+	- **[How Convolutional Neural Networks (CNNs) Works](https://www.youtube.com/watch?v=Z63RIHvfH34&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=98)**
+	- **[How YOLO algorithm work (part one) ](https://www.youtube.com/watch?v=SmXQtCVHxzE&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=99)**
+	- **[How YOLO algorithm work (part two)](https://www.youtube.com/watch?v=dKmCcnJvcdU&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=100)**
+	- **[How YOLO algorithm work (part three) | [loss function]](https://www.youtube.com/watch?v=Toe0GaAaCq0&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=101)**
+	- **[YOLO [mean average precision] mAP](https://www.youtube.com/watch?v=VhAbv_CyvJI&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=102)**
+	- **[object detection using YOLOV7](https://www.youtube.com/watch?v=YAoPsQldliU&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=103)**
+	- **[custom object detection by YOLOv7 ](https://www.youtube.com/watch?v=Lc4fqtw2Yeg&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=104)**
+	- **[custom object detection on google colab by YOLOv7](https://www.youtube.com/watch?v=FRVF1F6QMEk&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=105)**
+	- **[pose estimation by YOLOv7 ](https://www.youtube.com/watch?v=IK92tdi3AUE&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=106)**
+	- **[Architecture of YOLO v3](https://www.youtube.com/watch?v=ERYB9PVDe_I&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=107)**
+	- **[object detection by YOLO v3 | computer vision ](https://www.youtube.com/watch?v=9XgNHkxFrrg&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=108)**
+	- **[object tracking by YOLOv7 | computer vision](https://www.youtube.com/watch?v=-LD1seT5XVI&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=109)**
+	- **[object detection by yolo v5 | computer vision ](https://www.youtube.com/watch?v=BneTiIPyCt4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=110)**
+	- **[custom object detection by YOLO v7 | v5 and roboflow](https://www.youtube.com/watch?v=HlRtL1L-YXk&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=111)**
+	- **[How to collect 10,000,000 image and annotate it in easy and quick way | yolo](https://www.youtube.com/watch?v=13YqpgxnjKM&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=112)**
+	- **[Drowsiness Detection using YOLOv5 ](https://www.youtube.com/watch?v=bM1JmXOBMo8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=113)**
+	- **[Run your code on your phone camera + Face bluring](https://www.youtube.com/watch?v=hxNiVHSkxw8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=114)**
+	- **[face recognition | computer vision](https://www.youtube.com/watch?v=l04V28NSXH8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=115)**  
+	- **[Attendance system | Computer vision](https://www.youtube.com/watch?v=N62y-7RhkZs&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=116)**
+	- **[safty helmet detection using YOLOv5 | Computer vision ](https://www.youtube.com/watch?v=cIo6CELipD4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=117)**
+	- **[bat and ball game AI | Computer vision ](https://www.youtube.com/watch?v=g6y7F1bLcRQ&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=118)**
+	- **[Drowsy driver detection by face landmarks](https://www.youtube.com/watch?v=b0D30RYstR8&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=119)**
+	- **[parking management by yolov5 | computer vision](https://www.youtube.com/watch?v=JcumMX8iMIk&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=120)**
+	- **[people tracking and counting by YOLOv5 | Computer vision](https://www.youtube.com/watch?v=DIteI63sHPo&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=121)**
+	- **[Car Counting and tracking in highway by YOLOv5 ](https://www.youtube.com/watch?v=1WbaSVbaXi4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=122)**
+	- **[object detection by YOLOv8](https://www.youtube.com/watch?v=GJ9_Hos5a5E&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=123)**
+	- **[YOLOv8 COMPLETE Tutorial | Object Detection | Segmentation | Classification](https://www.youtube.com/watch?v=H2SxopvdFEo&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=124)**
+	- **[Custom instance segmentation | object detection by YOLOv8](https://www.youtube.com/watch?v=GfHT-fJ21S4&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=125)**
+	- **[Color Recognition by opencv | computer vision](https://www.youtube.com/watch?v=6CNR7Uj2V2Q&list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0&index=126)**
+	
+* Tutoriel Fr OpenCV Python:
+	- **[Tutoriel Fr OpenCV Python #1 Lire, visualiser et sauvegarder des images](https://www.youtube.com/watch?v=LU5R_toaA-E&list=PL6FngXmOX4AU7_HKEncGF4P92tvzdOf9y&index=1)**
+	- **[Tutoriel Fr OpenCV Python #2 Dessiner des formes géométriques sur des images](https://www.youtube.com/watch?v=oRs0qCQfl7M&list=PL6FngXmOX4AU7_HKEncGF4P92tvzdOf9y&index=2)**
+	- **[Tutoriel Fr OpenCV Python #3 Lire, Modifier et Sauvegarder des vidéos](https://www.youtube.com/watch?v=veDc24MduO4&list=PL6FngXmOX4AU7_HKEncGF4P92tvzdOf9y&index=3)**
+	- **[Tutoriel Fr OpenCV Python #4 Opérations basiques sur les pixels d’une image](https://www.youtube.com/watch?v=hUyjkG2Ytjc&list=PL6FngXmOX4AU7_HKEncGF4P92tvzdOf9y&index=4)**
+	- **[Tutoriel Fr OpenCV Python #5 Seuillge d'images - Image Thresholding](https://www.youtube.com/watch?v=lN_mnpesDV4&list=PL6FngXmOX4AU7_HKEncGF4P92tvzdOf9y&index=5)**
+	- **[Tutoriel Fr OpenCV Python #6 Floutage d'images - Image Blurring](https://www.youtube.com/watch?v=Ip7ljVlQu9g&list=PL6FngXmOX4AU7_HKEncGF4P92tvzdOf9y&index=6)**
+	- **[Tutoriel Fr OpenCV Python #7 Détection de lignes - Lines Detection](https://www.youtube.com/watch?v=Vus99XsL7yU&list=PL6FngXmOX4AU7_HKEncGF4P92tvzdOf9y&index=7)**
+	- **[Tutoriel Fr Python OpenCV #8 Transformations Homographiques](https://www.youtube.com/watch?v=b_94AjrkHkU&list=PL6FngXmOX4AU7_HKEncGF4P92tvzdOf9y&index=8)**
+
+* Computer Vision Projects:
+	- **[Gesture Volume Control | OpenCV Python | Computer Vision](https://www.youtube.com/watch?v=9iEPzbG-xLE&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=1)**
+	- **[Virtual Drag and Drop using OpenCV Python | CVZone](https://www.youtube.com/watch?v=6DxN8G9vB50&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=2)**
+	- **[FACE RECOGNITION + ATTENDANCE PROJECT | OpenCV Python | Computer](https://www.youtube.com/watch?v=sz25xxF_AVE&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=3)**
+	- **[Hand Distance Measurement with Normal Webcam + Game | OpenCV Python](https://www.youtube.com/watch?v=NGQgRH2_kq8&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=4)**
+	- **[AI ROBOT ARM using Python Arduino OpenCV CVZone | Computer Vision](https://www.youtube.com/watch?v=7KV5489rL3c&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=5)**
+	- **[Parking Space Counter using OpenCV Python | Computer Vision](https://www.youtube.com/watch?v=caKnQlCMIYI&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=6)**
+	- **[AI Virtual Mouse | OpenCV Python | Computer Vision](https://www.youtube.com/watch?v=8gPONnGIPgw&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=7)**
+	- **[I tried building a Computer Vision Game in 12 Hours](https://www.youtube.com/watch?v=i_UiTIr4jTk&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=8)**
+	- **[Hand Tracking 30 FPS using CPU | OpenCV Python (2021) | Computer Vision](https://www.youtube.com/watch?v=NZde8Xt78Iw&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=9)**
+	- **[Object Detection OpenCV Python | Easy and Fast (2020)](https://www.youtube.com/watch?v=HXDD7-EnGBY&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=10)**
+	- **[Easy Programming of Tello Drone | Python OpenCV Object Tracking](https://www.youtube.com/watch?v=vDOkUHNdmKs&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=11)**
+	- **[Traffic Signs Classification Using Convolution Neural Networks CNN | OPENCV Python](https://www.youtube.com/watch?v=SWaYRyi0TTs&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=12)**
+	- **[OPTICAL MARK RECOGNITION (OMR) MCQ Automated Grading- OpenCV Python](https://www.youtube.com/watch?v=0IqCOPlGBTs&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=13)**
+	- **[REAL TIME OBJECT MEASUREMENT | OpenCV Python (2020)](https://www.youtube.com/watch?v=tk9war7_y0Q&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=14)**
+	- **[Text Detection using Neural Networks | OPENCV Python](https://www.youtube.com/watch?v=y1ZrOs9s2QA&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=15)**
+	- **[Document Scanner OPENCV PYTHON | Beginner Project](https://www.youtube.com/watch?v=ON_JubFRw8M&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=16)**
+	- **[Sudoku Solver | OpenCV Python Projects](https://www.youtube.com/watch?v=Il5G57up_yM&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=17)**
+	- **[How to Detect QRCode and BarCode using OpenCV in Python gg+ Project](https://www.youtube.com/watch?v=SrZuwM705yE&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=18)**
+	- **[Robot Hand Gesture Controlled | Arduino & OpenCV](https://www.youtube.com/watch?v=3aGnZlv3Qyk&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=19)**
+	- **[Robot Arm Arduino Tutorial | Gesture Controlled (Part 1)](https://www.youtube.com/watch?v=gmz7eOB-tCg&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=20)**
+	- **[Facial Landmarks and Face Filter using OpenCV Python](https://www.youtube.com/watch?v=V2gmgkSqyi8&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=21)**
+	- **[Feature Detection and Matching + Image Classifier Project | OPENCV PYTHON](https://www.youtube.com/watch?v=nnH55-zD38I&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=22)**
+	- **[Panorama Stitching using OpenCV Python](https://www.youtube.com/watch?v=8oFRmdDum5k&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=23)**
+	- **[Augmented Reality with OpenCV using ArUco Markers (Python)](https://www.youtube.com/watch?v=v5a7pKSOJd8&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=24)**
+	- **[Basket Ball Shot Predictor using OpenCV Python | Computer Vision](https://www.youtube.com/watch?v=PVtmK8LmYpA&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=25)**
+	- **[Virtual Calculator using OpenCV Python | Computer Vision](https://www.youtube.com/watch?v=DZMJ77akgec&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=26)**
+	- **[Computer Vision Game using OpenCV Python | Velcro Dart Board](https://www.youtube.com/watch?v=tVe3r6186OA&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=27)**
+	- **[Virtual Quiz Game using OpenCV Python | CVZone](https://www.youtube.com/watch?v=6400ShqS9BY&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=28)**
+	- **[Virtual Zoom Gesture using OpenCV Python | CVZone](https://www.youtube.com/watch?v=VPaFV3QBsEw&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=29)**
+	- **[Multiple Hand Gesture Control with OpenCV Python | CVZone](https://www.youtube.com/watch?v=3xfOa4yeOb0&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=30)**
+	- **[AI Virtual Keyboard using OpenCV | Computer Vision | CVZone](https://www.youtube.com/watch?v=jzXZVFqEE2I&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=31)**
+	- **[Background Removal Like Zoom | OpenCV Python CVZone](https://www.youtube.com/watch?v=k7cVPGpnels&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=32)**
+	- **[Learn Object Classification in 20 mins | OpenCV CVZone Python](https://www.youtube.com/watch?v=M0EA4u1x4fs&list=PLMoSUbG1Q_r8jFS04rot-3NzidnV54Z2q&index=33)**
+	- **[Social Distancing Monitoring Basics - LIVE Coaching | OpenCV Python | Computer Vision (2021)](https://www.youtube.com/watch?v=30sSOPABAgk)**
+
+* More about computer vision:
+	- **[#1 Computer Vision | Pengenalan konsep, tool, library & pemrograman](https://www.youtube.com/watch?v=-PHjHe1OYQk&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=1)**
+	- **[#2 Computer Vision | Dasar Python Bagian 1](https://www.youtube.com/watch?v=QvDrelzr9oo&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=2)**
+	- **[#3 Computer Vision | Dasar Python Bagian 2 (Python Data Structure)](https://www.youtube.com/watch?v=1YJBOgZeEXw&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=3)**
+	- **[#4 Computer Vision | Dasar Python Bagian 3 (IF, FOR, WHILE & FUNCTION)](https://www.youtube.com/watch?v=_T6y1td48MM&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=4)**
+	- **[#5 Computer Vision | Dasar Python Bagian 4 (Class, Object, Inheritance, Scope & Module)](https://www.youtube.com/watch?v=n-L76lU2jqQ&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=5)**
+	- **[#6 Computer Vision | Python Numpy Fundamentals](https://www.youtube.com/watch?v=xRQOmbuImKk&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=6)**
+	- **[#7 Computer Vision | OpenCV : Load, Display & Save (Image & Video)](https://www.youtube.com/watch?v=QUWAd0UvdDs&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=7)**
+	- **[#8 Computer Vision | OpenCV : Crop, Resize, Blending & Convert Color Image](https://www.youtube.com/watch?v=rFHmGrsolqs&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=8)**
+	- **[#9 Computer Vision | OpenCV : Image Smoothing, Image Binarization & Edge Detection](https://www.youtube.com/watch?v=TLvthcsrmwg&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=9)**
+	- **[#10 Computer Vision | OpenCV : Drawing Tool, Find Contour & Contour Drawing](https://www.youtube.com/watch?v=4bqgcQ3tt00&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=10)**
+	- **[#11 Computer Vision | OpenCV : Region Mask, Range Thresholding, & Hough Transform](https://www.youtube.com/watch?v=7fM5_O5zs2U&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=11)**
+	- **[#12 Computer Vision | OpenCV : Morphological Transform & Operation](https://www.youtube.com/watch?v=J2Kuok4jx7s&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=12)**
+	- **[#13 Computer Vision | OpenCV : Image Pyramid & Geometric Transformation](https://www.youtube.com/watch?v=1dYcSaKaJR8&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=13)**
+	- **[#14 Computer Vision | OpenCV : Cascade Classifier & Cascade Classifier Training](https://www.youtube.com/watch?v=FCHp2QBFSdQ&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=14)**
+	- **[# 15 Computer Vision | OpenCV DNN & Darknet (Yolo Training & Inferencing)](https://www.youtube.com/watch?v=VAgOOe4x-wE&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=15)**
+	- **[# 16 Computer Vision | OpenCV DNN (Tensorflow) & Tesseract OCR for ALPR system](https://www.youtube.com/watch?v=Tu9zsYV9o1Q&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=16)**
+	- **[# 17 Computer Vision | OpenCV ML & SVM for OCR](https://www.youtube.com/watch?v=nQ8_NE8btQ0&list=PLF1krL_nkpHgKMJnaQwyRnU4KtNiRfsuv&index=17)**
+* Computer vision:
+	- **[Introducción a la Vision Artificial con Python y OpenCV](https://www.youtube.com/watch?v=Nh1eob7tsr0)**
+	- **[¿QUÉ ES VISIÓN COMPUTACIONAL? | 05 Inteligencia Artificial 101 | AprendeIA](https://www.youtube.com/watch?v=s9AWUmviNhE)**
+	- **[Introducción a Machine Learning (ML Zero to Hero, parte 1)](https://www.youtube.com/watch?v=LcXOMKE7d7A)**
+	- **[Computer vision básica con ML (ML Zero to Hero, parte 2)](https://www.youtube.com/watch?v=JivjbFTlyNU)**
+	- **[Computer Vision con Python y OpenCV](https://www.youtube.com/watch?v=ua25vHwca0E)**
+	- **[LEARN OPENCV in 3 HOURS with Python | Including 3xProjects | Computer Vision](https://www.youtube.com/watch?v=WQeoO7MI0Bs)**
+	- **[LEARN OPENCV C++ in 4 HOURS | Including 3x Projects | Computer Vision](https://www.youtube.com/watch?v=2FYm3GOonhk)**
+	- **[OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o)**
+	- **[Detección de objetos OpenCV Python | Fácil y rápido (2020)](https://www.youtube.com/watch?v=HXDD7-EnGBY)**
+	- **[Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects](https://www.youtube.com/watch?v=yqkISICHH-U)**
+	- **[Advanced Computer Vision with Python - Full Course](https://www.youtube.com/watch?v=01sAkU_NvOY)**
+	- **[OpenCV Python Tutorial #1 - Introduction & Images](https://www.youtube.com/watch?v=qCR2Weh64h4)**
+	- **[Build your OBJECT DETECTION SOFTWARE - Crash course | with Opencv and Python (2022)](https://www.youtube.com/watch?v=bUoWTPaKUi4)**
+	- **[OpenCV Python Course - Learn Computer Vision and AI:](https://www.youtube.com/watch?v=P4Z8_qe2Cu0)**
+	- **[¿Qué es OpenCV? y conceptos básicos | What is OpenCV? and basic concepts (examples in C++)](https://www.youtube.com/watch?v=R6F4M_w4yRQ)**
+	- **[😃 Reconocimiento Facial 🧒 PYTHON - OPENCV (3 minutos en Español)](https://www.youtube.com/watch?v=i7J40MnQUSg)**
+	- **[DETECCION Y RECONOCIMIENTO DE PLACAS EN TIEMPO REAL | Python OpenCV](https://www.youtube.com/watch?v=0-tVTxBRgbY)**
+	- **[Tu primer clasificador de imágenes con Python y Tensorflow](https://www.youtube.com/watch?v=j6eGHROLKP8)**
+	- **[Hand Tracking 30 FPS using CPU | OpenCV Python (2021) | Computer Vision](https://www.youtube.com/watch?v=NZde8Xt78Iw)**
+	- **[FACE RECOGNITION + ATTENDANCE PROJECT | OpenCV Python | Computer Vision](https://www.youtube.com/watch?v=sz25xxF_AVE)**
+	- **[Reconocimiento Facial y de Objetos - Tutorial OpenCV y Python](https://www.youtube.com/watch?v=kUMjVo25kX0)**
+	- **[🤖 Visión Artificial con Arduino | Mover un servo con Python y OpenCV](https://www.youtube.com/watch?v=g4_SpZGaszY)**
+	- **[Feature Detection and Matching + Image Classifier Project | OPENCV PYTHON](https://www.youtube.com/watch?v=nnH55-zD38I)**
+	- **[TensorFlow for Computer Vision Course - Full Python Tutorial for Beginners](https://www.youtube.com/watch?v=cPmjQ9V6Hbk)**
+	- **[OpenCV Python for Beginners - Full Course in 10 Hours - Learn Computer Vision with OpenCV](https://www.youtube.com/watch?v=N81PCpADwKQ)**
+	- **[10 INCREIBLES PROYECTOS DE VISION ARTIFICIAL | Python OpenCV](https://www.youtube.com/watch?v=1Ht6k9SwLuA)**
+	- **[Apprendre OpenCV a partir de zero - part 1 - Introduction](https://www.youtube.com/watch?v=8lCw6qPX5w0)**
+	- **[Apprendre OpenCV a partir de zero - part 2 - Introduction A la video](https://www.youtube.com/watch?v=UpqqLBlOdzg)**
+	- **[Apprendre OpenCV a partir de zero - part 3 - Formes geometriques](https://www.youtube.com/watch?v=FsM0A26j3SU)**
+	- **[🔴Social Distancing Monitoring Basics - LIVE Coaching | OpenCV Python | Computer Vision (2021)](https://www.youtube.com/watch?v=30sSOPABAgk)**
+	- **[Créer un système de RECONNAISSANCE FACIALE ? Opencv et Python](https://www.youtube.com/watch?v=54WmrwVWu1w)**
+	- **[]()**
+
+
+* PyTorch Tutorials - Complete Beginner Course:
+	- **[PyTorch Tutorial 01 - Installation](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=1)**
+	- **[PyTorch Tutorial 02 - Tensor Basics](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=2)**
+	- **[PyTorch Tutorial 03 - Gradient Calculation With Autograd](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=3)**
+	- **[PyTorch Tutorial 04 - Backpropagation - Theory With Example](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=4)**
+	- **[PyTorch Tutorial 05 - Gradient Descent with Autograd and Backpropagation](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=5)**
+	- **[PyTorch Tutorial 06 - Training Pipeline: Model, Loss, and Optimizer](https://www.youtube.com/watch?v=VVDHU_TWwUg&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=6)**
+	- **[PyTorch Tutorial 07 - Linear Regression](https://www.youtube.com/watch?v=YAJ5XBwlN4o&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=7)**
+	- **[PyTorch Tutorial 08 - Logistic Regression](https://www.youtube.com/watch?v=OGpQxIkR4ao&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=8)**
+	- **[PyTorch Tutorial 09 - Dataset and DataLoader - Batch Training](https://www.youtube.com/watch?v=PXOzkkB5eH0&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=9)**
+	- **[PyTorch Tutorial 10 - Dataset Transforms](https://www.youtube.com/watch?v=X_QOZEko5uE&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=10)**
+	- **[PyTorch Tutorial 11 - Softmax and Cross Entropy](https://www.youtube.com/watch?v=7q7E91pHoW4&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=11)**
+	- **[PyTorch Tutorial 12 - Activation Functions](https://www.youtube.com/watch?v=3t9lZM7SS7k&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=12)**
+	- **[PyTorch Tutorial 13 - Feed-Forward Neural Network](https://www.youtube.com/watch?v=oPhxf2fXHkQ&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=13)**
+	- **[PyTorch Tutorial 14 - Convolutional Neural Network (CNN)](https://www.youtube.com/watch?v=pDdP0TFzsoQ&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=14)**
+	- **[PyTorch Tutorial 15 - Transfer Learning](https://www.youtube.com/watch?v=K0lWSB2QoIQ&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=15)**
+	- **[PyTorch Tutorial 16 - How To Use The TensorBoard](https://www.youtube.com/watch?v=VJW9wU-1n18&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=16)**
+	- **[PyTorch Tutorial 17 - Saving and Loading Models](https://www.youtube.com/watch?v=9L9jEOwRrCg&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=17)**
+	- **[Create & Deploy A Deep Learning App - PyTorch Model Deployment With Flask & Heroku](https://www.youtube.com/watch?v=bA7-DEtYCNM&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=18)**
+	- **[PyTorch RNN Tutorial - Name Classification Using A Recurrent Neural Net](https://www.youtube.com/watch?v=WEV61GmmPrk&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=19)**
+	- **[PyTorch Tutorial - RNN & LSTM & GRU - Recurrent Neural Nets](https://www.youtube.com/watch?v=0_PgWWmauHk&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=20)**
+	- **[PyTorch Lightning Tutorial - Lightweight PyTorch Wrapper For ML Researchers](https://www.youtube.com/watch?v=Hgg8Xy6IRig&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=21)**
+	- **[PyTorch LR Scheduler - Adjust The Learning Rate For Better Results](https://www.youtube.com/watch?v=81NJgoR5RfY&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=22)**
+
+* 🐍PYTHON CON PYSPARK:
+	- **[Big Data en 🐍PYTHON CON PYSPARK / Introducción a Spark / Spark Stack / Spark Streaming](https://www.youtube.com/watch?v=SRBih5LwDZw)**
+	- **[Curso Big Data con Python y Spark - De Cero a Heroe](https://www.youtube.com/watch?v=df021jGEmPM)**
+	- **[Introducción a PySpark](https://www.youtube.com/watch?v=poZ51InYrw4)**
+	- Pyspark with Python:
+		- **[Tutorial 1-Pyspark With Python-Pyspark Introduction and Installation](https://www.youtube.com/watch?v=WyZmM6K7ubc&list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg&index=1)**
+		- **[Tutorial 2-Pyspark With Python-Pyspark DataFrames- Part 1](https://www.youtube.com/watch?v=7I4YZwaJgPs&list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg&index=2)**
+		- **[Tutorial 3- Pyspark With Python-Pyspark DataFrames- Handling Missing Values](https://www.youtube.com/watch?v=pOMXkbc06m4&list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg&index=3)**
+		- **[Tutorial 4- Pyspark With Python-Pyspark DataFrames- Filter Operations](https://www.youtube.com/watch?v=ePj8hx2C-IE&list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg&index=4)**
+		- **[Tutorial 5- Pyspark With Python-GroupBy And Aggregate Functions](https://www.youtube.com/watch?v=u6I8HCJlIk0&list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg&index=5)**
+		- **[Tutorial 6- Pyspark With Python-Introduction To Pyspark Mlib](https://www.youtube.com/watch?v=l6dx_0LobsA&list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg&index=6)**
+		- **[Tutorial 7- Pyspark With Python|Introduction To Databricks](https://www.youtube.com/watch?v=5aFac7ga_uo&list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg&index=8)**
+		- **[Tutorial 8- Pyspark Multiple Linear Regression Implementation In Databricks](https://www.youtube.com/watch?v=QuWbB_cRSKk&list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg&index=9)**	
+* Databricks
+	- **[Databricks - Primeros pasos](https://www.youtube.com/watch?v=DAV3p8rhWhM)**
+	- **[Master Databricks and Apache Spark](https://www.youtube.com/playlist?list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp)**
+	- **[Introduction to Azure Databricks](https://www.youtube.com/watch?v=bO7Xad1gOFQ&list=PLMWaZteqtEaKi4WAePWtCSQCfQpvBT2U1)**
+	- **[Azure Databricks - Python](https://www.youtube.com/playlist?list=PL_XpoDibuob6_rELsVWANzI9uEqbUr2Ax)**
+	- **[Databricks Tutorial Series videos](https://www.youtube.com/playlist?list=PL50mYnndduIGmqjzJ8SDsa9BZoY7cvoeD)**
+	- **[DataScience con PySpark I: Apache Spark, Python, DataFrames y RDDs](https://www.youtube.com/watch?v=iMOgTbaDJXc)**
+	- **[Data Science desde 0: Analítica de datos Big Data con Apache Spark](https://www.youtube.com/watch?v=rIuHmjn1IEs)**
+	- **[Ciencia de datos con PySpark: Proceso de datos en Streaming](https://www.youtube.com/watch?v=U7ntD_gfBT4)**
+	- **[Curso Big Data con Python y Spark - De Cero a Heroe](https://www.youtube.com/watch?v=df021jGEmPM)**
+
+* Python NLP
+	- **[Laboratorio práctico con spacy y python para el procesamiento de textos](https://www.youtube.com/watch?v=l7v4poqH-JY)**
+	- **[¿Cómo hacer Procesamiento de Lenguaje Natural? | PLN](https://www.youtube.com/watch?v=el70l7z4HC0)**
+	- **[🔴 INTRO al Natural Language Processing (NLP) #1 - ¡De PALABRAS a VECTORES!](https://www.youtube.com/watch?v=Tg1MjMIVArc)**
+	- **[Curso NLP - Procesamiento del Lenguaje Natural con Python](https://www.youtube.com/watch?v=pBjH1E6D4Ag)**
+	- **[👉🔴PLN PYTHON (2021) | PROCESAMIENTO DE LENGUAJE NATURAL](https://www.youtube.com/playlist?list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G)**
+		- **[👉🔴PLN PYTHON | PROCESAMIENTO DE LENGUAJE NATURAL NLTK PYTHON IA (INTRO)](https://www.youtube.com/watch?v=y8VrUZZ4fPY&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=1)**
+			- **[🔴CÓMO HACER un ROBOT QUE HABLE con INTELIGENCIA ARTIFICIAL CASERO(2021): CONVERSION TEXTO VOZ TTS](https://www.youtube.com/watch?v=NGSjwWrE-6A&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=2)**
+			- **[🔴 VOZ ROBOTICA con TTS y VOCODER para HACER un ROBOT con INTELIGENCIA ARTIFICIAL CASERO (2021)](https://www.youtube.com/watch?v=awawNe1YaOs&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=3)**
+			- **[🔴VOZ DE ROBOT SONIDOS ROBOTS ROBOTICOS EFECTOS #3: EXPRESIONES | INTELIGENCIA ARTIFICIAL (IA)](https://www.youtube.com/watch?v=ekCjYeY72Co&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=4)**
+			- **[🔴SONIDOS ROBOTS ROBOTICOS EFECTOS #1 | RUIDOS | INTELIGENCIA ARTIFICIAL (IA)](https://www.youtube.com/watch?v=xhqd3E2w9PA&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=5)**
+			- **[🔴SONIDOS ROBOTS ROBOTICOS EFECTOS #2 | SIN PALABRAS | INTELIGENCIA ARTIFICIAL (IA)](https://www.youtube.com/watch?v=-_EqkG46xRM&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=6)**
+		- **[👉🔴REDES NEURONALES RECURRENTES PYTHON RRN y LSTM - IA - PREPROCESAMIENTO](https://www.youtube.com/watch?v=YUcuTWXld88&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=7)**
+			- **[🔴REDES NEURONALES RECURRENTES PYTHON RRN y LSTM - IA (2022) - ESTRUCTURA](https://www.youtube.com/watch?v=eDRzG0zKqGU&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=8)**
+			- **[🔴REDES NEURONALES RECURRENTES PYTHON RRN y LSTM - IA (2022) - TESTEO y APLICACIONES](https://www.youtube.com/watch?v=52PGtKskzUM&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=9)**
+			- **[🔴REDES NEURONALES RECURRENTES PYTHON RRN y LSTM - IA (2022) - APRENDIZAJE](https://www.youtube.com/watch?v=F4XaDGxLH9M&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=10)**
+		- **[👉🔴 CHATBOT ESPAÑOL PYTHON REDES NEURONALES, LSTMs, CHATTERBOT, INTELIGENCIA ARTIFICIAL (IA) #1](https://www.youtube.com/watch?v=z8_z1_p8MkA&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=11)**
+			- **[🔴 CHATBOT ESPAÑOL PYTHON REDES NEURONALES, LSTMs, CHATTERBOT, INTELIGENCIA ARTIFICIAL (IA) #2](https://www.youtube.com/watch?v=cX5DpAGhe0w&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=12)**
+			- **[🔴 CHATBOT ESPAÑOL PYTHON REDES NEURONALES, LSTMs, CHATTERBOT, INTELIGENCIA ARTIFICIAL (IA) #3](https://www.youtube.com/watch?v=riYFMJuf5tk&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=13)**
+		- **[👉🔴 Redes neuronales EMBEDDINGS en Español + Word2Vec (NLP); QUÉ SON, CÓMO y PORQUÉ FUNCIONAN](https://www.youtube.com/watch?v=blVlMwSuq3s&list=PLaHpNulXyoOS_DMC4lzcfYYDaHJRSCw9G&index=14)**
+	- **[Uso de la librería Spacy de Python para procesamiento de texto](https://www.youtube.com/watch?v=BfxWSEvWNQM)**
+	- **[Normalización de datos python ✅ | (3 MÉTODOS en 5 minutos 🤯 )](https://www.youtube.com/watch?v=ro2UjY8dLWw)**
+	- **[Natural Language Processing in Python](https://www.youtube.com/watch?v=xvqsFTUsOmc)**
+	- **[La Siguiente Gran Revolución: NLP (Procesamiento del Lenguaje Natural)](https://www.youtube.com/watch?v=cTQiN9dewIg)**
+	- **[Spacy Procesamiento de Lenguaje Natural (NLP)](https://www.youtube.com/watch?v=dK97CUQ8T1E)**
+	- **[]()**
+
+
+
+
+       
